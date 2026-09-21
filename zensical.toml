@@ -97,7 +97,7 @@ nav = [
         ] },
         { "Events" = [
             "student-help-centre/2-events/index.md",
-            { "Attend Events" = "student-help-centre/2-events/1-attent-events.md" },
+            { "Attend Events" = "student-help-centre/2-events/1-attend-events.md" },
             { "Compliance Forms for Event Attendees" = "student-help-centre/2-events/2-compliance-forms-for-event-attendees.md" },
         ] },
         { "Volunteering" = [
