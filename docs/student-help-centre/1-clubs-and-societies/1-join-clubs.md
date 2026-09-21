@@ -1,4 +1,5 @@
 ---
+title: Join Clubs
 hide:
   - toc
 ---
