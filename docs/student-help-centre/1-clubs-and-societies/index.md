@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-description: The first steps to setting up and running your club on TUSA.
+title: Clubs and Societies
+description: To join and create Club
 icon: material/rocket-launch
 hide:
   - toc
