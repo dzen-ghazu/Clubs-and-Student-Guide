@@ -1,35 +1,40 @@
+---
+title: Attend Events
+hide:
+  - toc
+---
 # Finding and Attending Events
-
-[][1]
 
 TUSA and affiliated clubs run hundreds of events throughout the year – from social gatherings and workshops to competitions and cultural celebrations. Here's how to find and join in!
 
 ---
 
-## Finding Events[][2]
+## Finding Events
 
-### Browse the Events Page[][3]
+### Browse the Events Page
 
-1.  Go to the **Events** section of the website
-2.  Browse upcoming events
-3.  Use filters to find what interests you:
-    - **Date** – When is it happening?
+1. Go to the **Events** section of the website
+2. Browse upcoming events
+3. Use filters to find what interests you:
+  - **Date** – When is it happening?
     - **Campus** – Where is it?
     - **Category** – What type of event?
     - **Club** – Events from specific clubs
 
-### Filter by Category[][4]
+### Filter by Category
 
-| Category     | What to Expect                                   |
+
+| Category | What to Expect |
 | ------------ | ------------------------------------------------ |
-| **Social**   | Parties, BBQs, movie nights, games nights        |
-| **Academic** | Workshops, study sessions, career events         |
-| **Sports**   | Tournaments, try-sessions, fitness activities    |
-| **Cultural** | Cultural celebrations, festivals, food events    |
-| **Arts**     | Performances, exhibitions, creative workshops    |
+| **Social** | Parties, BBQs, movie nights, games nights |
+| **Academic** | Workshops, study sessions, career events |
+| **Sports** | Tournaments, try-sessions, fitness activities |
+| **Cultural** | Cultural celebrations, festivals, food events |
+| **Arts** | Performances, exhibitions, creative workshops |
 | **Wellness** | Mental health events, yoga, self-care activities |
 
-### Filter by Campus[][5]
+
+### Filter by Campus
 
 Events happen across all TUSA campuses:
 
@@ -41,9 +46,9 @@ Events happen across all TUSA campuses:
 
 ---
 
-## Event Types[][6]
+## Event Types
 
-### Free Events[][7]
+### Free Events
 
 Many events are completely free! These include:
 
@@ -52,7 +57,7 @@ Many events are completely free! These include:
 - Information sessions
 - Some workshops and activities
 
-### Ticketed Events[][8]
+### Ticketed Events
 
 Some events require tickets, which may be:
 
@@ -60,7 +65,7 @@ Some events require tickets, which may be:
 - **Paid tickets** – Purchase to attend
 - **Member-priced** – Discounts for club members
 
-### RSVP Events[][9]
+### RSVP Events
 
 Some events just need you to RSVP:
 
@@ -70,15 +75,15 @@ Some events just need you to RSVP:
 
 ---
 
-## How to Attend an Event[][10]
+## How to Attend an Event
 
-### Step 1: Find an Event[][11]
+### Step 1: Find an Event
 
 1. Browse the events page
 2. Click on an event that interests you
 3. Read the event details
 
-### Step 2: Check the Details[][12]
+### Step 2: Check the Details
 
 Before registering, check:
 
@@ -87,7 +92,7 @@ Before registering, check:
 - **Cost** – Free or ticketed?
 - **Requirements** – Do you need to bring anything?
 
-### Step 3: Register or Get Tickets[][13]
+### Step 3: Register or Get Tickets
 
 **For Free Events:**
 
@@ -102,7 +107,7 @@ Before registering, check:
 3. Complete payment (if required)
 4. Check your email for your tickets
 
-### Step 4: Attend\![][14]
+### Step 4: Attend
 
 - Add the event to your calendar
 - Check for any updates before the event
@@ -111,16 +116,16 @@ Before registering, check:
 
 ---
 
-## Managing Your Event Registrations[][15]
+## Managing Your Event Registrations
 
-### View Your Tickets[][16]
+### View Your Tickets
 
 1. Log in to your account
 2. Go to your profile or account area
 3. Find **My Tickets** or **My Events**
 4. View all your upcoming events
 
-### Cancel a Registration[][17]
+### Cancel a Registration
 
 If you can't make it:
 
@@ -132,9 +137,9 @@ If you can't make it:
 
 ---
 
-## At the Event[][18]
+## At the Event
 
-### What to Bring[][19]
+### What to Bring
 
 Depending on the event, you might need:
 
@@ -143,7 +148,7 @@ Depending on the event, you might need:
 - Items specified in the event description
 - Appropriate clothing/gear
 
-### Accessibility[][20]
+### Accessibility
 
 TUSA events aim to be accessible to all students. If you have specific accessibility needs:
 
@@ -151,7 +156,7 @@ TUSA events aim to be accessible to all students. If you have specific accessibi
 - Contact the organiser before the event
 - Let them know what you need
 
-### Safety[][21]
+### Safety
 
 At all TUSA events:
 
@@ -162,9 +167,9 @@ At all TUSA events:
 
 ---
 
-## Special Events to Watch For[][22]
+## Special Events to Watch For
 
-### Orientation Week (O-Week)[][23]
+### Orientation Week (O-Week)
 
 At the start of each semester:
 
@@ -173,14 +178,14 @@ At the start of each semester:
 - Club showcases and sign-ups
 - Campus tours and info sessions
 
-### Clubs & Societies Market Day[][24]
+### Clubs & Societies Market Day
 
 - All clubs in one place
 - Free giveaways and activities
 - Sign up to multiple clubs
 - Usually week 1-2 of semester
 
-### TUSA Signature Events[][25]
+### TUSA Signature Events
 
 Watch for major events throughout the year:
 
@@ -191,9 +196,9 @@ Watch for major events throughout the year:
 
 ---
 
-## Event Notifications[][26]
+## Event Notifications
 
-### Stay Updated[][27]
+### Stay Updated
 
 Never miss an event by:
 
@@ -202,7 +207,7 @@ Never miss an event by:
 - Checking the events page regularly
 - Enabling email notifications
 
-### Email Reminders[][28]
+### Email Reminders
 
 When you register for events:
 
@@ -212,60 +217,60 @@ When you register for events:
 
 ---
 
-## Frequently Asked Questions[][29]
+## Frequently Asked Questions
 
-### Do I need to be a club member to attend club events?[][30]
+### Do I need to be a club member to attend club events?
 
 Many club events are open to everyone. Some may be member-only or offer discounts to members. Check the event details.
 
-### Can I bring friends who aren't UTAS students?[][31]
+### Can I bring friends who aren't UTAS students?
 
 It depends on the event. Some are open to guests, others are student-only. Check the event description or ask the organiser.
 
-### What if an event is sold out?[][32]
+### What if an event is sold out?
 
 - Join the waitlist if available
 - Check for additional sessions
 - Follow the club for future events
 - Some events release more tickets closer to the date
 
-### What if I registered but can't attend?[][33]
+### What if I registered but can't attend?
 
 Please cancel your registration if you can't make it. This opens up spots for others and helps organisers plan.
 
-### Are events wheelchair accessible?[][34]
+### Are events wheelchair accessible?
 
 TUSA aims to make events accessible. Check individual event descriptions or contact organisers for specific accessibility information.
 
-### What if I feel unsafe at an event?[][35]
+### What if I feel unsafe at an event?
 
 - Find an event organiser or staff member
 - Contact security if on campus
 - Leave if you need to
 - Report concerns to TUSA afterwards
 
-### Can I suggest an event?[][36]
+### Can I suggest an event?
 
 Yes! Talk to your club committees or contact TUSA with event ideas. You can also provide feedback after events.
 
 ---
 
-## Having Trouble?[][37]
+## Having Trouble?
 
-### Can't register for an event?[][38]
+### Can't register for an event?
 
 - Make sure you're logged in
 - Check if tickets are still available
 - Clear your browser cache and try again
 - Contact TUSA for help
 
-### Didn't receive your ticket?[][39]
+### Didn't receive your ticket?
 
 - Check your spam folder
 - Log in and check your registered events
 - Contact the event organiser
 
-### Event details changed?[][40]
+### Event details changed?
 
 - You should receive an email about changes
 - Check the event page for updates
@@ -273,6 +278,6 @@ Yes! Talk to your club committees or contact TUSA with event ideas. You can also
 
 ---
 
-## Ready to Get Started?[][41]
+## Ready to Get Started?
 
 **[Browse Upcoming Events]** – See what's on!
