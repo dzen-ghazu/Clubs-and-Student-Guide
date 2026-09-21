@@ -1,6 +1,9 @@
+---
+title: Food Hub Volunteering
+hide:
+  - toc
+---
 # Food Hub Volunteering
-
-[][1]
 
 The TUSA Food Hub provides free food to students in need. As a volunteer, you'll help sort, pack, and distribute food while making a real difference in students' lives.
 
@@ -19,11 +22,13 @@ The Food Hub is TUSA's food assistance program that:
 
 ## Food Hub Locations[][3]
 
-| Location             | Campus                | Operating Hours |
+
+| Location | Campus | Operating Hours |
 | -------------------- | --------------------- | --------------- |
-| Sandy Bay Food Hub   | Sandy Bay             | Check schedule  |
-| Inveresk Food Hub    | Inveresk (Launceston) | Check schedule  |
-| Hobart City Food Hub | Hobart                | Check schedule  |
+| Sandy Bay Food Hub | Sandy Bay | Check schedule |
+| Inveresk Food Hub | Inveresk (Launceston) | Check schedule |
+| Hobart City Food Hub | Hobart | Check schedule |
+
 
 **Note:** Hours may vary during semester breaks and exam periods.
 
@@ -33,13 +38,15 @@ The Food Hub is TUSA's food assistance program that:
 
 ### Typical Volunteer Tasks[][5]
 
-| Task             | Description                             |
+
+| Task | Description |
 | ---------------- | --------------------------------------- |
-| **Sorting**      | Checking and organising donated food    |
-| **Packing**      | Preparing food parcels for distribution |
-| **Distribution** | Helping students collect their food     |
-| **Stocking**     | Restocking shelves and storage areas    |
-| **Cleaning**     | Keeping the space clean and tidy        |
+| **Sorting** | Checking and organising donated food |
+| **Packing** | Preparing food parcels for distribution |
+| **Distribution** | Helping students collect their food |
+| **Stocking** | Restocking shelves and storage areas |
+| **Cleaning** | Keeping the space clean and tidy |
+
 
 ### What to Expect[][6]
 
@@ -263,11 +270,11 @@ Food Hub stock varies but typically includes:
 
 Ready to volunteer? Here's your checklist:
 
-1. \[ \] Log in to your TUSA account
-2. \[ \] Find and submit the Food Hub Volunteer Application
-3. \[ \] Wait for your application to be approved
-4. \[ \] Complete onboarding and any required training
-5. \[ \] Access ShiftController and start booking shifts!
+1.   Log in to your TUSA account
+2.   Find and submit the Food Hub Volunteer Application
+3.   Wait for your application to be approved
+4.   Complete onboarding and any required training
+5.   Access ShiftController and start booking shifts!
 
 ---
 
@@ -275,6 +282,7 @@ Ready to volunteer? Here's your checklist:
 
 **Questions about volunteering?**
 
-- Email: foodhub@tusa.edu.au
+- Email: [foodhub@tusa.edu.au](mailto:foodhub@tusa.edu.au)
 - Visit: Your nearest Food Hub location
 - Online: Use the feedback form on the website
+
