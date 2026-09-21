@@ -1,12 +1,15 @@
+---
+title: Start a New Club
+hide:
+  - toc
+---
 # Starting a New Club
-
-[][1]
 
 Want to start a club at TUSA? Here's how to get started.
 
 ---
 
-## How It Works[][2]
+## How It Works
 
 You can't just submit an application right away. There's a process:
 
@@ -17,24 +20,24 @@ You can't just submit an application right away. There's a process:
 
 ---
 
-## Step 1: Expression of Interest[][3]
+## Step 1: Expression of Interest
 
 Find the EOI form on the TUSA website under Clubs & Societies.
 
-### What We'll Ask[][4]
+### What We'll Ask
 
 - Your proposed club name
 - What the club is about
 - Why you want to start it
 - Your contact details
 
-### What Happens Next[][5]
+### What Happens Next
 
 A TUSA Club Officer will contact you to arrange a meeting. This usually happens within 1-2 weeks.
 
 ---
 
-## Step 2: Meeting with Club Officer[][6]
+## Step 2: Meeting with Club Officer
 
 This is a friendly chat to:
 
@@ -47,20 +50,22 @@ If your club idea is good to go, you'll be invited to submit a full application.
 
 ---
 
-## Step 3: Full Application[][7]
+## Step 3: Full Application
 
 Once invited, you'll need to prepare:
 
-| What You Need         | Why                                             |
+
+| What You Need | Why |
 | --------------------- | ----------------------------------------------- |
-| **Constitution**      | Your club's rules (TUSA can provide a template) |
-| **Meeting minutes**   | Record of your founding meeting                 |
-| **Member list**       | You need a minimum number of members            |
-| **Committee details** | At least a president, plus other roles          |
+| **Constitution** | Your club's rules (TUSA can provide a template) |
+| **Meeting minutes** | Record of your founding meeting |
+| **Member list** | You need a minimum number of members |
+| **Committee details** | At least a president, plus other roles |
+
 
 ---
 
-## What You Get When Approved[][8]
+## What You Get When Approved
 
 When your club is affiliated, you automatically get:
 
@@ -71,18 +76,20 @@ When your club is affiliated, you automatically get:
 
 ---
 
-## How Long Does It Take?[][9]
+## How Long Does It Take?
 
-| Stage                  | Typical Time         |
+
+| Stage | Typical Time |
 | ---------------------- | -------------------- |
-| EOI to meeting         | 1-2 weeks            |
+| EOI to meeting | 1-2 weeks |
 | Meeting to application | Same day if approved |
-| Application review     | 1-2 weeks            |
-| **Total**              | 2-4 weeks            |
+| Application review | 1-2 weeks |
+| **Total** | 2-4 weeks |
+
 
 ---
 
-## Tips for Success[][10]
+## Tips for Success
 
 **Have a clear purpose** – What makes your club unique? What will members get out of it?
 
@@ -94,8 +101,9 @@ When your club is affiliated, you automatically get:
 
 ---
 
-## Questions?[][11]
+## Questions?
 
-- **Email:** clubs@tusa.edu.au
+- **Email:** [clubs@tusa.edu.au](mailto:clubs@tusa.edu.au)
 - **Visit:** TUSA office
 - **Online:** EOI form on the TUSA website
+
