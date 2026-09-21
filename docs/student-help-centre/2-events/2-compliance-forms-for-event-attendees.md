@@ -1,12 +1,15 @@
+---
+title: Compliance Forms For Events Attendees
+hide:
+  - toc
+---
 # Compliance Forms for Event Attendees
-
-[][1]
 
 When attending club events and activities, you may need to complete one or more compliance forms. This guide explains what these forms are and when you need them.
 
 ---
 
-## Why These Forms Exist[][2]
+## Why These Forms Exist
 
 Compliance forms help clubs:
 
@@ -19,9 +22,9 @@ Completing these forms is part of participating in club events. They're not opti
 
 ---
 
-## Types of Forms[][3]
+## Types of Forms
 
-### 1. Liability Waiver[][4]
+### 1. Liability Waiver
 
 **What it is:** A form acknowledging you understand the risks of an activity and agree to participate.
 
@@ -39,7 +42,7 @@ Completing these forms is part of participating in club events. They're not opti
 - The specific event/activity
 - Your signature acknowledging the waiver terms
 
-### 2. Medical Disclosure[][5]
+### 2. Medical Disclosure
 
 **What it is:** A form sharing relevant health information with event organisers.
 
@@ -60,7 +63,7 @@ Completing these forms is part of participating in club events. They're not opti
 
 **Privacy:** This information is treated confidentially and only shared with those who need it for your safety (event organisers, first aiders, emergency services if needed).
 
-### 3. Parental/Guardian Consent[][6]
+### 3. Parental/Guardian Consent
 
 **What it is:** Permission from a parent or guardian for participants under 18.
 
@@ -80,9 +83,9 @@ Completing these forms is part of participating in club events. They're not opti
 
 ---
 
-## How to Complete Forms[][7]
+## How to Complete Forms
 
-### Before the Event[][8]
+### Before the Event
 
 Clubs will typically:
 
@@ -90,7 +93,7 @@ Clubs will typically:
 2. Provide links to complete forms online
 3. Set a deadline for form submission
 
-### Completing Online[][9]
+### Completing Online
 
 1. Click the link provided by your club
 2. Fill in all required fields
@@ -98,7 +101,7 @@ Clubs will typically:
 4. Provide your signature (electronic signature field)
 5. Submit the form
 
-### Tips for Completing Forms[][10]
+### Tips for Completing Forms
 
 - **Be accurate** – This information is for your safety
 - **Don't skip medical info** – If you have allergies or conditions, disclose them
@@ -107,13 +110,13 @@ Clubs will typically:
 
 ---
 
-## Frequently Asked Questions[][11]
+## Frequently Asked Questions
 
-### Do I have to fill these out every time?[][12]
+### Do I have to fill these out every time?
 
 It depends on the club and activity. Some activities require a form per event; others may have blanket forms covering a semester of regular activities. The club will tell you what's needed.
 
-### What if I don't want to share medical information?[][13]
+### What if I don't want to share medical information?
 
 You can choose what to disclose, but:
 
@@ -121,35 +124,35 @@ You can choose what to disclose, but:
 - Organisers won't know how to help in an emergency
 - Some activities may require medical disclosure for insurance purposes
 
-### Can I attend without completing the forms?[][14]
+### Can I attend without completing the forms?
 
 No. If forms are required for an event, you must complete them to participate. This is for legal and safety reasons.
 
-### What happens to my information?[][15]
+### What happens to my information?
 
 - Forms are stored securely by TUSA
 - Only relevant club admins and TUSA staff can access them
 - Medical information is treated with extra confidentiality
 - Information is used only for the stated purpose (event safety)
 
-### I'm under 18 – can I sign my own forms?[][16]
+### I'm under 18 – can I sign my own forms?
 
 - You can complete and sign the liability waiver and medical disclosure yourself
 - Parental consent requires your parent/guardian's signature – you cannot sign it yourself
 
-### What if my parent can't sign digitally?[][17]
+### What if my parent can't sign digitally?
 
 Contact the club or TUSA to arrange an alternative. A scanned signed form may be acceptable.
 
-### I have a question about what I'm signing[][18]
+### I have a question about what I'm signing
 
 Ask the club before signing. If you're unsure about anything in the waiver or terms, get clarification first.
 
 ---
 
-## For Specific Activities[][19]
+## For Specific Activities
 
-### Adventure Activities[][20]
+### Adventure Activities
 
 If you're joining a bushwalk, camping trip, or similar:
 
@@ -157,19 +160,19 @@ If you're joining a bushwalk, camping trip, or similar:
 - Medical disclosure is especially important for remote activities
 - Be honest about your fitness level and experience
 
-### Sports Events[][21]
+### Sports Events
 
 - Liability waiver typically required
 - Medical disclosure if there's physical contact or exertion
 - Inform organisers of any injuries or conditions affecting participation
 
-### Social Events with Alcohol[][22]
+### Social Events with Alcohol
 
 - Events at licensed venues may have specific terms
 - If under 18, you cannot attend events serving alcohol
 - Waiver may include acknowledgements about responsible drinking
 
-### Overnight Trips[][23]
+### Overnight Trips
 
 - All forms usually required
 - Emergency contact details are essential
@@ -177,9 +180,9 @@ If you're joining a bushwalk, camping trip, or similar:
 
 ---
 
-## If Something Goes Wrong[][24]
+## If Something Goes Wrong
 
-### During an Event[][25]
+### During an Event
 
 If you have a medical emergency or incident:
 
@@ -187,7 +190,7 @@ If you have a medical emergency or incident:
 2. Your disclosed medical information helps them respond appropriately
 3. Emergency contacts will be notified if needed
 
-### After an Event[][26]
+### After an Event
 
 If you have concerns about how your information was handled:
 
@@ -196,9 +199,10 @@ If you have concerns about how your information was handled:
 
 ---
 
-## Contact[][27]
+## Contact
 
 Questions about compliance forms?
 
-- **Email:** clubs@tusa.edu.au
+- **Email:** [clubs@tusa.edu.au](mailto:clubs@tusa.edu.au)
 - **Visit:** TUSA office
+
