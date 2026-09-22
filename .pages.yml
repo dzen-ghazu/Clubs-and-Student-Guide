@@ -20,6 +20,7 @@ content:
     exclude:
       - "**/media/**"
       - "**/images/**"
+      
     fields:
       - name: title
         label: Title
