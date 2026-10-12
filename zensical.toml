@@ -58,6 +58,11 @@ nav = [
             { "Take Payments (Stripe)" = "club-admin-guide/1-getting-started/4-take-payments-stripe.md" },
             { "Report A Problem" = "club-admin-guide/1-getting-started/5-report-a-problem.md" },
         ] },
+        
+         { "Test" = [
+            "club-admin-guide/Test/index.md",
+            { "Test Page" = "club-admin-guide/Test/test-page.md" },
+        ] },
 
 
         { "Your Club" = [
